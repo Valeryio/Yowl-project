@@ -6,8 +6,14 @@ Notre outil va permettre de décentraliser les commentaires des réseaux sociaux
 
 
 ## Links
+![Image](./files/Screenshot%202025-09-30%20195835.png)
+- [Lien vers les wireframes](https://excalidraw.com/#room=e24608cbb7f6c17c0f80,Tw1dpWlIIl5pmRGJvAqo9g)
 - [Lien vers le fichier figma](https://www.figma.com/design/CVucCYjgwugSNNm6OfEn3i/YOWL_Design_ECHO?node-id=7-2623&t=nC4Q31qonjRnxtKr-0)
 Les autres ressources concernant les différents cahiers de charges sont sauvegardés dans le dossier précédent.
 
 
 ### Auteurs
+- Sadok Godeme
+- Arnella Agbodjalou
+- Mystica Houndje
+- Linson Doumate
